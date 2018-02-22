@@ -11,4 +11,3 @@ window.onload = function () {
     var myClass = new MyClass();
     myClass.render("content", "Hello World");
 };
-//# sourceMappingURL=app.js.map

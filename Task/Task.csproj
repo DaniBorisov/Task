@@ -126,6 +126,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <TypeScriptCompile Include="app\app.constants.ts" />
     <TypeScriptCompile Include="app\app.ts" />
   </ItemGroup>
   <ItemGroup>
